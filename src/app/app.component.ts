@@ -1,10 +1,11 @@
 import { Component } from '@angular/core';
-
+import { HeaderComponent, RecipesComponent } from './index';
 @Component({
   selector: 'rb-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  styleUrls: []
 })
 export class AppComponent {
-  title = 'rb';
+  
 }
+ 
