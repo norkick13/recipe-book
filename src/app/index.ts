@@ -1,2 +1,2 @@
 export { RecipesComponent } from './recipes/recipes.component';
-export  { HeaderComponent } from './header.component';
+export { ShoppingListComponent } from './shopping-list/shopping-list.component';

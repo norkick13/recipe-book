@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { HeaderComponent, RecipesComponent } from './index';
+import {  RecipesComponent, ShoppingListComponent } from './index';
 @Component({
   selector: 'rb-root',
   templateUrl: './app.component.html',
